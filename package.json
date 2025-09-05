@@ -1,0 +1,29 @@
+{
+  "name": "intermediary-backend",
+  "version": "1.0.0",
+  "description": "demo folder npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreAnjosSt/Intermediary-BackEnd.git"
+  },
+  "keywords": [
+    "Andre",
+    "Santos"
+  ],
+  "author": "Andre Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreAnjosSt/Intermediary-BackEnd/issues"
+  },
+  "homepage": "https://github.com/AndreAnjosSt/Intermediary-BackEnd#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^12.9.4",
+    "path": "^0.12.7",
+    "url": "^0.11.4"
+  }
+}
